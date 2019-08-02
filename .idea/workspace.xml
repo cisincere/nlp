@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="673c569b-fe5d-417a-9550-e986d7652a80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nlpt/BasicPipelineExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nlpt/BasicPipelineExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nlpt/BasicPipelineExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nlpt/BasicPipelineExample.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,10 +22,46 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/nlpt/BasicPipelineExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="108">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///opt/apache-maven-3.6.1/maven/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar!/edu/stanford/nlp/pipeline/Annotator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3186">
+              <caret line="120" selection-start-line="120" selection-end-line="120" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///opt/apache-maven-3.6.1/maven/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar!/edu/stanford/nlp/pipeline/AnnotationPipeline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///opt/apache-maven-3.6.1/maven/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar!/edu/stanford/nlp/pipeline/StanfordCoreNLP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="251" column="28" lean-forward="true" selection-start-line="251" selection-start-column="28" selection-end-line="251" selection-end-column="28" />
+              <folding>
+                <element signature="e#4670#4671#0" expanded="true" />
+                <element signature="e#4720#4721#0" expanded="true" />
+                <element signature="e#6857#6858#0" expanded="true" />
+                <element signature="e#6905#6906#0" expanded="true" />
+                <element signature="e#11456#11457#0" expanded="true" />
+                <element signature="e#11503#11504#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,9 +107,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="615" />
-    <option name="width" value="1558" />
-    <option name="height" value="1034" />
+    <option name="x" value="1146" />
+    <option name="y" value="510" />
+    <option name="width" value="1550" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -116,9 +155,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,7 +166,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TEST2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -153,7 +192,6 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="nlpt.BasicPipelineExample" />
       <module name="nlp" />
-      <option name="VM_PARAMETERS" value="-server -XX:PermSize=1280M -XX:MaxPermSize=1360m -Xmx4012m -XX:-UseGCOverheadLimit" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="nlpt.*" />
@@ -185,7 +223,9 @@
       <workItem from="1564206587203" duration="8093000" />
       <workItem from="1564280143353" duration="856000" />
       <workItem from="1564281285593" duration="6408000" />
-      <workItem from="1564732337695" duration="740000" />
+      <workItem from="1564732337695" duration="1639000" />
+      <workItem from="1564734112115" duration="1682000" />
+      <workItem from="1564751599710" duration="467000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交＇">
       <created>1564732920745</created>
@@ -194,17 +234,24 @@
       <option name="project" value="LOCAL" />
       <updated>1564732920745</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次提交＇">
+      <created>1564733141955</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564733141955</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16885000" />
+    <option name="totallyTimeSpent" value="19933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1928" height="1039" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20971185" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2139808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -219,7 +266,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26703912" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3083799" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4994664" visible="true" weight="0.30795074" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -229,10 +276,10 @@
       <window_info anchor="bottom" id="Docker" order="10" />
       <window_info anchor="bottom" id="Remote Spark Job in Cluster" order="11" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.30149412" side_tool="true" visible="true" weight="0.5554311" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053364" side_tool="true" weight="0.30795074" />
       <window_info anchor="bottom" id="Cosmos Serverless Spark Jobs" order="14" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
-      <window_info anchor="bottom" id="Version Control" order="16" sideWeight="0.6985059" visible="true" weight="0.5554311" />
+      <window_info anchor="bottom" id="Version Control" order="16" sideWeight="0.69743866" weight="0.32586786" />
       <window_info anchor="bottom" id="JRebel Executor" order="17" />
       <window_info anchor="bottom" id="JRebel Console" order="18" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="19" weight="0.32954547" />
@@ -279,10 +326,25 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交＇" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交＇" />
+    <MESSAGE value="第二次提交＇" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交＇" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -291,29 +353,12 @@
           <url>jar:///opt/apache-maven-3.6.1/maven/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar!/edu/stanford/nlp/pipeline/StanfordCoreNLP.java</url>
           <line>191</line>
           <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/nlpt/BasicPipelineExample.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///opt/apache-maven-3.6.1/maven/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar!/edu/stanford/nlp/trees/Dependencies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-          <folding>
-            <element signature="e#1148#1149#0" expanded="true" />
-            <element signature="e#1183#1184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///opt/apache-maven-3.6.1/maven/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar!/edu/stanford/nlp/util/Filters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -464,13 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///opt/apache-maven-3.6.1/maven/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar!/edu/stanford/nlp/pipeline/AnnotationPipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///opt/apache-maven-3.6.1/maven/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar!/edu/stanford/nlp/util/ArraySet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -571,21 +609,6 @@
             <element signature="e#2968#2969#0" expanded="true" />
             <element signature="e#3018#3019#0" expanded="true" />
             <element signature="e#3047#3048#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///opt/apache-maven-3.6.1/maven/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar!/edu/stanford/nlp/pipeline/StanfordCoreNLP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="520" column="44" selection-start-line="520" selection-start-column="44" selection-end-line="520" selection-end-column="44" />
-          <folding>
-            <element signature="e#4670#4671#0" expanded="true" />
-            <element signature="e#4720#4721#0" expanded="true" />
-            <element signature="e#6857#6858#0" expanded="true" />
-            <element signature="e#6905#6906#0" expanded="true" />
-            <element signature="e#11456#11457#0" expanded="true" />
-            <element signature="e#11503#11504#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -790,12 +813,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///opt/apache-maven-3.6.1/maven/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar!/edu/stanford/nlp/pipeline/Annotator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3186">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/apache-maven-3.6.1/maven/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar!/edu/stanford/nlp/pipeline/AnnotationPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/apache-maven-3.6.1/maven/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar!/edu/stanford/nlp/pipeline/StanfordCoreNLP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="251" column="28" lean-forward="true" selection-start-line="251" selection-start-column="28" selection-end-line="251" selection-end-column="28" />
+          <folding>
+            <element signature="e#4670#4671#0" expanded="true" />
+            <element signature="e#4720#4721#0" expanded="true" />
+            <element signature="e#6857#6858#0" expanded="true" />
+            <element signature="e#6905#6906#0" expanded="true" />
+            <element signature="e#11456#11457#0" expanded="true" />
+            <element signature="e#11503#11504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/nlpt/BasicPipelineExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        <state relative-caret-position="108">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
           </folding>
         </state>
       </provider>
