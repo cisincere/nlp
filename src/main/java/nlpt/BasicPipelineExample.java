@@ -25,6 +25,7 @@ public class BasicPipelineExample {
         // create a document object
         CoreDocument document = new CoreDocument(text);
         // annnotate the document
+
         pipeline.annotate(document);
         // examples
 
